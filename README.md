@@ -1,4 +1,4 @@
-<h1 align="center">Bioinformatics Influenza Genome Analysis</h1>
+<h1 align="center">Bioinformatics-Influenza Genome Analysis</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-100%25-blue" alt="Jupyter Notebook">
 </p>

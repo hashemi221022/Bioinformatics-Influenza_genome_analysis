@@ -17,8 +17,7 @@
 # What is this project? 
 <span><img src="https://img.shields.io/badge/Bioinformatics-316192?style=flat&logo=bioinformatic&logoColor=white%22" /></span>
 
-In this notebook, a number of article IDs were obtained using the keyword "regenerative medicine" 
-and then information such as Title,  Doi, Abstract, Background, Methods, Results and Conclusion was extracted.
+In this notebook, influenza genome(segment 1) was analysed.
 
 # How to use?
 
